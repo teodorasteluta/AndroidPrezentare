@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "847815051568",
+    "project_id": "antiprocrastinationapp",
+    "storage_bucket": "antiprocrastinationapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847815051568:android:cc645daeb98f9df7afa0f5",
+        "android_client_info": {
+          "package_name": "com.example.navigationdrawer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847815051568-dt77rg02bt29eal8dlacg99urinb0e56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHAw5iqzbZNcJrC4r9M-bPwvsrs0qUsug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847815051568-dt77rg02bt29eal8dlacg99urinb0e56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

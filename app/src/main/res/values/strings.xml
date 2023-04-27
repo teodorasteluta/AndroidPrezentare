@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Proiect Android</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="save">save</string>
+    <string name="enter_email">Enter email</string>
+    <string name="login">Login</string>
+    <string name="enter_full_name">Enter full name</string>
+    <string name="welcome_to_antiprocrastination_app">Welcome to AntiProcrastination app</string>
+    <string name="full_name">Full Name:</string>
+    <string name="enter_password">Enter password</string>
+
+</resources>
